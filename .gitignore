@@ -1,0 +1,17 @@
+.idea/
+node_modules/
+app/*.js
+app/*.js.map
+app/ts/*.js
+app/component/*.js
+app/model/*.js
+app/service/server/*.js
+app/service/server/*.js.map
+app/component/*.js.map
+app/ts/*.js.map
+app/model/*.js.map
+*.css
+.sass-cache
+*.css.map
+bootstrap-4.0.0-alpha
+/server/.env
